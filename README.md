@@ -3,7 +3,9 @@
 requirements
 
 selenium
+
 BeautifulSoup
+
 webdriver for chrome
 
 
